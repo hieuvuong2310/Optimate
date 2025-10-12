@@ -1,6 +1,6 @@
 # 🌐 Optimate  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-blue?logo=vercel)](https://optimate-two.vercel.app/auth) 
+[![Deployed on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-blue?logo=vercel)](https://optimate-two.vercel.app/) 
 
 https://github.com/user-attachments/assets/e16653b8-a15a-481d-a4b2-122dfcbfecd0
 
