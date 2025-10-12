@@ -1,6 +1,8 @@
 # 🌐 Optimate  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-blue?logo=vercel)](https://optimate-two.vercel.app/auth)  
+[![Deployed on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-blue?logo=vercel)](https://optimate-two.vercel.app/auth) 
+
+https://github.com/user-attachments/assets/e16653b8-a15a-481d-a4b2-122dfcbfecd0
 
 **Optimate** is an AI-powered underwriting dashboard that transforms raw insurance policy data into actionable insights, helping underwriters make faster, smarter, and more confident decisions.  
 
